@@ -11,4 +11,4 @@ Goals of the project
 * list of article title suggestion
 
 ## Copyright
-Copyright (C) 2018, Andreas Holmstrom, Martin Valderhaug Larsen.
+Copyright (C) 2018, Andreas Holmstrom, Magnus Hellebust Haaland, Olav Hellesbust Haaland, Torstein Vik.
